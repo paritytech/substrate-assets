@@ -1,0 +1,10 @@
+{#
+close:
+yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/polkadot-events/polkadot-events.yaml assets/polkadot/polkadot.yaml | yq ea '"s": .[]'
+
+#}
+# TEST
+
+{% for asset in assets %}
+- {{ asset | json_encode () }}
+{% endfor %}
