@@ -22,9 +22,9 @@ yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/
 {% endif%}
 <figure style="float: {{float}}; margin: 10px;">
 <a href="{{img}}">
-<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin: 10px;" height=32px  />
+<img src="{{img}}" alt="{{asset.name}}" style="margin: 10px;" height=32px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/{{img}}</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/{{img}}</code></figcaption>
 </figure>
 {% endfor %}
 
@@ -39,9 +39,9 @@ yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/
 {% endif%}
 <figure style="float: {{float}}; margin: 10px;">
 <a href="{{img}}">
-<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin: 10px;" height=200px  />
+<img src="{{img}}" alt="{{asset.name}}" style="margin: 10px;" height=200px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/{{img}}</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/{{img}}</code></figcaption>
 </figure>
 {% endfor %}
 

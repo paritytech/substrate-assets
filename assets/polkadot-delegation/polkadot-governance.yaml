@@ -2,5 +2,8 @@ name: Polkadot Delegation
 description: Polkadot Delegation is a web app to delegate your votes.
 icons:
   - icons/governance_icon.svg
-screenshots: []
+screenshots:
+  - screenshots/connect.png
+  - screenshots/delegation.png
+  - screenshots/page2.png
 dir: assets/polkadot-delegation
