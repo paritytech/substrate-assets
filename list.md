@@ -133,6 +133,39 @@ Polkadot Delegation is a web app to delegate your votes.
 
 
 
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/connect.png">
+<img src="assets/polkadot-delegation/screenshots/connect.png" alt="Polkadot Delegation" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/connect.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/delegation.png">
+<img src="assets/polkadot-delegation/screenshots/delegation.png" alt="Polkadot Delegation" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/delegation.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/page2.png">
+<img src="assets/polkadot-delegation/screenshots/page2.png" alt="Polkadot Delegation" style="float: none; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/page2.png</code></figcaption>
+</figure>
+
+
+
+
 ## Polkadot Staking
 
 Polkadot Staking is a web app to stake your DOT.
@@ -154,6 +187,61 @@ Polkadot Staking is a web app to stake your DOT.
 
 ### screenshots
 
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/polkadot-light.png">
+<img src="assets/polkadot-staking/screenshots/polkadot-light.png" alt="Polkadot Staking" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/polkadot-light.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/kusama-light.png">
+<img src="assets/polkadot-staking/screenshots/kusama-light.png" alt="Polkadot Staking" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/kusama-light.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/polkadot-dark.png">
+<img src="assets/polkadot-staking/screenshots/polkadot-dark.png" alt="Polkadot Staking" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/polkadot-dark.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/connect-dark.png">
+<img src="assets/polkadot-staking/screenshots/connect-dark.png" alt="Polkadot Staking" style="float: left; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/connect-dark.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/kusama-dark.png">
+<img src="assets/polkadot-staking/screenshots/kusama-dark.png" alt="Polkadot Staking" style="float: none; margin: 10px;" height=200px  />
+</a>
+<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/kusama-dark.png</code></figcaption>
+</figure>
 
 
 
