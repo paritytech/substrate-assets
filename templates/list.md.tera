@@ -3,8 +3,40 @@ close:
 yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/polkadot-events/polkadot-events.yaml assets/polkadot/polkadot.yaml | yq ea '"s": .[]'
 
 #}
-# TEST
+# Assets List
 
 {% for asset in assets %}
-- {{ asset | json_encode () }}
+
+## {{ asset.name }}
+
+{{ asset.description }}
+
+### icons
+
+{% for icon in asset.icons %}
+{% set img = asset.dir ~ "/" ~ icon %}
+{% if loop.index < asset.icons | length %}
+{% set float = "left" %}
+{% else %}
+{% set float = "none" %}
+{% endif%}
+<a href="{{img}}">
+<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin-right: 10px;" height=32px  />
+</a>
+{% endfor %}
+
+### screenshots
+
+{% for ss in asset.screenshots %}
+{% set img = asset.dir ~ "/" ~ ss %}
+{% if loop.index < asset.screenshots | length %}
+{% set float = "left" %}
+{% else %}
+{% set float = "none" %}
+{% endif%}
+<a href="{{img}}">
+<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin-right: 10px;" height=200px  />
+</a>
+{% endfor %}
+
 {% endfor %}
