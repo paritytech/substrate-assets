@@ -58,7 +58,7 @@ Kusama relay chain assets
 <a href="assets/kusama/icons/kusama_icon.svg">
 <img src="assets/kusama/icons/kusama_icon.svg" alt="Kusama" style="float: none; margin: 10px;" height=128px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/kusama/icons/kusama_icon.svg</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/kusama/icons/kusama_icon.svg</code></figcaption>
 </figure>
 </div>
 
@@ -71,7 +71,7 @@ Kusama relay chain assets
   <a href="assets/kusama/screenshots/kusama.png">
 <img src="assets/kusama/screenshots/kusama.png" alt="Kusama" style="float: none; margin: 10px;" height=400px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/kusama/screenshots/kusama.png</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/kusama/screenshots/kusama.png</code></figcaption>
 </figure>
 </div>
 
@@ -152,7 +152,7 @@ Polkadot Delegation is a web app to delegate your votes.
   <a href="assets/polkadot-delegation/icons/governance_icon.svg">
 <img src="assets/polkadot-delegation/icons/governance_icon.svg" alt="Polkadot Delegation" style="float: none; margin: 10px;" height=128px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/icons/governance_icon.svg</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/icons/governance_icon.svg</code></figcaption>
 </figure>
 </div>
 
@@ -163,6 +163,39 @@ Polkadot Delegation is a web app to delegate your votes.
 **// TODO: Add screenshots**
 
 ---
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/connect.png">
+<img src="assets/polkadot-delegation/screenshots/connect.png" alt="Polkadot Delegation" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/connect.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/delegation.png">
+<img src="assets/polkadot-delegation/screenshots/delegation.png" alt="Polkadot Delegation" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/delegation.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/polkadot-delegation/screenshots/page2.png">
+<img src="assets/polkadot-delegation/screenshots/page2.png" alt="Polkadot Delegation" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-delegation/screenshots/page2.png</code></figcaption>
+</figure>
+
+
+
 
 ## Polkadot Staking
 
@@ -177,7 +210,7 @@ Polkadot Staking is a web app to stake your DOT.
   <a href="assets/polkadot-staking/icons/staking_icon.svg">
 <img src="assets/polkadot-staking/icons/staking_icon.svg" alt="Polkadot Staking" style="float: none; margin: 10px;" height=128px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/icons/staking_icon.svg</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/icons/staking_icon.svg</code></figcaption>
 </figure>
 </div>
 
@@ -186,6 +219,61 @@ Polkadot Staking is a web app to stake your DOT.
  // TODO: Add screenshots
 
 ----
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/polkadot-light.png">
+<img src="assets/polkadot-staking/screenshots/polkadot-light.png" alt="Polkadot Staking" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/polkadot-light.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/kusama-light.png">
+<img src="assets/polkadot-staking/screenshots/kusama-light.png" alt="Polkadot Staking" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/kusama-light.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/polkadot-dark.png">
+<img src="assets/polkadot-staking/screenshots/polkadot-dark.png" alt="Polkadot Staking" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/polkadot-dark.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/connect-dark.png">
+<img src="assets/polkadot-staking/screenshots/connect-dark.png" alt="Polkadot Staking" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/connect-dark.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/polkadot-staking/screenshots/kusama-dark.png">
+<img src="assets/polkadot-staking/screenshots/kusama-dark.png" alt="Polkadot Staking" style="margin: 10px;" height=200px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-staking/screenshots/kusama-dark.png</code></figcaption>
+</figure>
+
+
+
 
 ## Polkadot Events
 
@@ -218,7 +306,7 @@ A simple Dashboard for a node
   <a href="assets/polkadot-node-explorer/icons/pnex_512.svg">
 <img src="assets/polkadot-node-explorer/icons/pnex_512.svg" alt="Polkadot Node Explorer" style=" margin: 10px;" height=128px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/icons/pnex_512.svg</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/icons/pnex_512.svg</code></figcaption>
 </figure>
 </div>
 
@@ -231,7 +319,7 @@ A simple Dashboard for a node
 <a href="assets/polkadot-node-explorer/screenshots/kusama.png">
 <img src="assets/polkadot-node-explorer/screenshots/kusama.png" alt="Polkadot Node Explorer" style="margin: 10px;" height=400px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/screenshots/kusama.png</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/screenshots/kusama.png</code></figcaption>
 </figure>
 </div>
 
@@ -243,7 +331,7 @@ A simple Dashboard for a node
   <a href="assets/polkadot-node-explorer/screenshots/polkadot.png">
 <img src="assets/polkadot-node-explorer/screenshots/polkadot.png" alt="Polkadot Node Explorer" style="margin: 10px;" height=400px  />
 </a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/screenshots/polkadot.png</code></figcaption>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot-node-explorer/screenshots/polkadot.png</code></figcaption>
 </figure>
 </div>
 
