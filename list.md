@@ -15,7 +15,7 @@ Polkadot JS
 
 
 <a href="assets/polkadotjs/icons/icon.png">
-<img src="assets/polkadotjs/icons/icon.png" alt="Polkadot JS" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/polkadotjs/icons/icon.png" alt="Polkadot JS" style="float: none; margin: 10px;" height=32px  />
 </a>
 
 
@@ -27,7 +27,7 @@ Polkadot JS
 
 
 <a href="assets/polkadotjs/screenshots/statemine.png">
-<img src="assets/polkadotjs/screenshots/statemine.png" alt="Polkadot JS" style="float: left; margin-right: 10px;" height=200px  />
+<img src="assets/polkadotjs/screenshots/statemine.png" alt="Polkadot JS" style="float: left; margin: 10px;" height=200px  />
 </a>
 
 
@@ -35,7 +35,7 @@ Polkadot JS
 
 
 <a href="assets/polkadotjs/screenshots/kusama.png">
-<img src="assets/polkadotjs/screenshots/kusama.png" alt="Polkadot JS" style="float: left; margin-right: 10px;" height=200px  />
+<img src="assets/polkadotjs/screenshots/kusama.png" alt="Polkadot JS" style="float: left; margin: 10px;" height=200px  />
 </a>
 
 
@@ -43,7 +43,7 @@ Polkadot JS
 
 
 <a href="assets/polkadotjs/screenshots/statemint.png">
-<img src="assets/polkadotjs/screenshots/statemint.png" alt="Polkadot JS" style="float: left; margin-right: 10px;" height=200px  />
+<img src="assets/polkadotjs/screenshots/statemint.png" alt="Polkadot JS" style="float: left; margin: 10px;" height=200px  />
 </a>
 
 
@@ -51,7 +51,7 @@ Polkadot JS
 
 
 <a href="assets/polkadotjs/screenshots/polkadot.png">
-<img src="assets/polkadotjs/screenshots/polkadot.png" alt="Polkadot JS" style="float: none; margin-right: 10px;" height=200px  />
+<img src="assets/polkadotjs/screenshots/polkadot.png" alt="Polkadot JS" style="float: none; margin: 10px;" height=200px  />
 </a>
 
 
@@ -69,7 +69,7 @@ Kusama relay chain
 
 
 <a href="assets/kusama/icons/kusama_icon.svg">
-<img src="assets/kusama/icons/kusama_icon.svg" alt="Kusama" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/kusama/icons/kusama_icon.svg" alt="Kusama" style="float: none; margin: 10px;" height=32px  />
 </a>
 
 
@@ -91,7 +91,7 @@ Polkadot Delegation is a web app to delegate your votes.
 
 
 <a href="assets/polkadot-delegation/icons/governance_icon.svg">
-<img src="assets/polkadot-delegation/icons/governance_icon.svg" alt="Polkadot Delegation" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/polkadot-delegation/icons/governance_icon.svg" alt="Polkadot Delegation" style="float: none; margin: 10px;" height=32px  />
 </a>
 
 
@@ -113,7 +113,7 @@ Polkadot Staking is a web app to stake your DOT.
 
 
 <a href="assets/polkadot-staking/icons/staking_icon.svg">
-<img src="assets/polkadot-staking/icons/staking_icon.svg" alt="Polkadot Staking" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/polkadot-staking/icons/staking_icon.svg" alt="Polkadot Staking" style="float: none; margin: 10px;" height=32px  />
 </a>
 
 
@@ -149,7 +149,7 @@ Polkadot relay chain
 
 
 <a href="assets/polkadot/icons/polkadot.svg">
-<img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="float: left; margin-right: 10px;" height=32px  />
+<img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="float: left; margin: 10px;" height=32px  />
 </a>
 
 
@@ -157,12 +157,50 @@ Polkadot relay chain
 
 
 <a href="assets/polkadot/icons/polkadot_icon.svg">
-<img src="assets/polkadot/icons/polkadot_icon.svg" alt="Polkadot" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/polkadot/icons/polkadot_icon.svg" alt="Polkadot" style="float: none; margin: 10px;" height=32px  />
 </a>
 
 
 ### screenshots
 
+
+
+
+
+## Polkadot Node Explorer
+
+A simple Dashboard for a node
+
+### icons
+
+
+
+
+
+
+<a href="assets/polkadot-node-explorer/icons/pnex_512.svg">
+<img src="assets/polkadot-node-explorer/icons/pnex_512.svg" alt="Polkadot Node Explorer" style="float: none; margin: 10px;" height=32px  />
+</a>
+
+
+### screenshots
+
+
+
+
+
+
+<a href="assets/polkadot-node-explorer/screenshots/kusama.png">
+<img src="assets/polkadot-node-explorer/screenshots/kusama.png" alt="Polkadot Node Explorer" style="float: left; margin: 10px;" height=200px  />
+</a>
+
+
+
+
+
+<a href="assets/polkadot-node-explorer/screenshots/polkadot.png">
+<img src="assets/polkadot-node-explorer/screenshots/polkadot.png" alt="Polkadot Node Explorer" style="float: none; margin: 10px;" height=200px  />
+</a>
 
 
 

@@ -1,0 +1,8 @@
+name: Polkadot Node Explorer
+description: A simple Dashboard for a node
+icons:
+  - icons/pnex_512.svg
+screenshots:
+  - screenshots/kusama.png
+  - screenshots/polkadot.png
+dir: assets/polkadot-node-explorer
