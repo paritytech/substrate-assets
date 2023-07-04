@@ -1,2 +1,7 @@
 name: Polkadot JS
 description: Polkadot JS
+icons: []
+screenshots:
+  - screenshots/kusama.png
+  - screenshots/statemint.png
+  - screenshots/polkadot.png
