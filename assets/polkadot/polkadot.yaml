@@ -3,5 +3,6 @@ description: Polkadot relay chain
 icons:
   - icons/polkadot.svg
   - icons/polkadot_icon.svg
-screenshots: []
+screenshots:
+  - screenshots/polkadot.png
 dir: assets/polkadot

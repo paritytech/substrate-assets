@@ -79,6 +79,14 @@ Kusama relay chain
 
 
 
+
+<a href="assets/kusama/screenshots/kusama.png">
+<img src="assets/kusama/screenshots/kusama.png" alt="Kusama" style="float: none; margin: 10px;" height=200px  />
+</a>
+
+
+
+
 ## Polkadot Delegation
 
 Polkadot Delegation is a web app to delegate your votes.
@@ -163,6 +171,14 @@ Polkadot relay chain
 
 ### screenshots
 
+
+
+
+
+
+<a href="assets/polkadot/screenshots/polkadot.png">
+<img src="assets/polkadot/screenshots/polkadot.png" alt="Polkadot" style="float: none; margin: 10px;" height=200px  />
+</a>
 
 
 

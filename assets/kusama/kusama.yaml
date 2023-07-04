@@ -2,5 +2,6 @@ name: Kusama
 description: Kusama relay chain
 icons:
   - icons/kusama_icon.svg
-screenshots: []
+screenshots:
+  - screenshots/kusama.png
 dir: assets/kusama
