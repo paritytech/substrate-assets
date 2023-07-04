@@ -65,6 +65,58 @@ Kusama relay chain
 
 
 
+
+
+
+<a href="assets/kusama/icons/kusama_icon.svg">
+<img src="assets/kusama/icons/kusama_icon.svg" alt="Kusama" style="float: none; margin-right: 10px;" height=32px  />
+</a>
+
+
+### screenshots
+
+
+
+
+
+## Polkadot Delegation
+
+Polkadot Delegation is a web app to delegate your votes.
+
+### icons
+
+
+
+
+
+
+<a href="assets/polkadot-delegation/icons/governance_icon.svg">
+<img src="assets/polkadot-delegation/icons/governance_icon.svg" alt="Polkadot Delegation" style="float: none; margin-right: 10px;" height=32px  />
+</a>
+
+
+### screenshots
+
+
+
+
+
+## Polkadot Staking
+
+Polkadot Staking is a web app to stake your DOT.
+
+### icons
+
+
+
+
+
+
+<a href="assets/polkadot-staking/icons/staking_icon.svg">
+<img src="assets/polkadot-staking/icons/staking_icon.svg" alt="Polkadot Staking" style="float: none; margin-right: 10px;" height=32px  />
+</a>
+
+
 ### screenshots
 
 
@@ -97,7 +149,15 @@ Polkadot relay chain
 
 
 <a href="assets/polkadot/icons/polkadot.svg">
-<img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="float: none; margin-right: 10px;" height=32px  />
+<img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="float: left; margin-right: 10px;" height=32px  />
+</a>
+
+
+
+
+
+<a href="assets/polkadot/icons/polkadot_icon.svg">
+<img src="assets/polkadot/icons/polkadot_icon.svg" alt="Polkadot" style="float: none; margin-right: 10px;" height=32px  />
 </a>
 
 

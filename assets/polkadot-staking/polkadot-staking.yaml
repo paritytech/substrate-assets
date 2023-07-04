@@ -1,2 +1,6 @@
 name: Polkadot Staking
 description: Polkadot Staking is a web app to stake your DOT.
+icons:
+  - icons/staking_icon.svg
+screenshots: []
+dir: assets/polkadot-staking
