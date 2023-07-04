@@ -12,13 +12,11 @@ Polkadot relay chain
 
 ### icons
 
-<div style="display: flex">
-  <figure style="margin: 0 auto;">
+<div style="display: flex; flex-direction: column; align-items: center">
   <a href="assets/polkadot/icons/polkadot.svg">
-<img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="margin: 10px;" height=128px  />
-</a>
-<figcaption><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot/icons/polkadot.svg</code></figcaption>
-</figure>
+    <img src="assets/polkadot/icons/polkadot.svg" alt="Polkadot" style="margin: 10px;" height=128px  />
+  </a>
+  <code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadot/icons/polkadot.svg</code>
 </div>
 
 <div style="display: flex">
