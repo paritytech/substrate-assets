@@ -1,4 +1,6 @@
 name: Polkadot
 description: Polkadot relay chain
-icons: []
+icons:
+  - icons/polkadot.svg
 screenshots: []
+dir: assets/polkadot

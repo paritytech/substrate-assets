@@ -6,6 +6,7 @@ yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/
 # Assets List
 
 {% for asset in assets %}
+
 ## {{ asset.name }}
 
 {{ asset.description }}
@@ -13,17 +14,29 @@ yq ea '[.]'  assets/polkadotjs/polkadotjs.yaml assets/kusama/kusama.yaml assets/
 ### icons
 
 {% for icon in asset.icons %}
-![{{ asset.name }}]({{icon}})
+{% set img = asset.dir ~ "/" ~ icon %}
+{% if loop.index < asset.icons | length %}
+{% set float = "left" %}
+{% else %}
+{% set float = "none" %}
+{% endif%}
+<a href="{{img}}">
+<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin-right: 10px;" height=32px  />
+</a>
 {% endfor %}
 
 ### screenshots
 
 {% for ss in asset.screenshots %}
-{% set img = "./assets/" ~ asset.name ~ "/" ~ ss %}
-<img src="{{img}}"
-     alt="{{asset.name}}"
-     style="float: left; margin-right: 10px;" />
+{% set img = asset.dir ~ "/" ~ ss %}
+{% if loop.index < asset.screenshots | length %}
+{% set float = "left" %}
+{% else %}
+{% set float = "none" %}
+{% endif%}
+<a href="{{img}}">
+<img src="{{img}}" alt="{{asset.name}}" style="float: {{float}}; margin-right: 10px;" height=200px  />
+</a>
 {% endfor %}
-
 
 {% endfor %}
