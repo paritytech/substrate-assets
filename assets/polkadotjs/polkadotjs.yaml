@@ -2,6 +2,7 @@ name: Polkadot JS
 description: Polkadot JS
 icons:
   - icons/icon.png
+  - icons/icon.svg
 screenshots:
   - screenshots/statemine.png
   - screenshots/kusama.png

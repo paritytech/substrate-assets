@@ -14,11 +14,22 @@ Polkadot JS
 
 
 
-<figure style="float: none; margin: 10px;">
+<figure style="float: left; margin: 10px;">
 <a href="assets/polkadotjs/icons/icon.png">
 <img src="assets/polkadotjs/icons/icon.png" alt="Polkadot JS" style="margin: 10px;" height=32px  />
 </a>
 <figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadotjs/icons/icon.png</code></figcaption>
+</figure>
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/polkadotjs/icons/icon.svg">
+<img src="assets/polkadotjs/icons/icon.svg" alt="Polkadot JS" style="margin: 10px;" height=32px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadotjs/icons/icon.svg</code></figcaption>
 </figure>
 
 
