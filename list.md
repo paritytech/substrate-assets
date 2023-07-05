@@ -25,6 +25,17 @@ Polkadot JS
 
 
 
+<figure style="float: left; margin: 10px;">
+<a href="assets/polkadotjs/icons/pjs_icon.svg">
+<img src="assets/polkadotjs/icons/pjs_icon.svg" alt="Polkadot JS" style="margin: 10px;" height=32px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/polkadotjs/icons/pjs_icon.svg</code></figcaption>
+</figure>
+
+
+
+
+
 <figure style="float: none; margin: 10px;">
 <a href="assets/polkadotjs/icons/icon.svg">
 <img src="assets/polkadotjs/icons/icon.svg" alt="Polkadot JS" style="margin: 10px;" height=32px  />
@@ -263,6 +274,31 @@ Polkadot Events is a mobile App for iOS and Android
 
 ### icons
 
+
+
+### screenshots
+
+
+
+
+
+## Westend
+
+Westend test relay chain
+
+### icons
+
+
+
+
+
+
+<figure style="float: none; margin: 10px;">
+<a href="assets/westend/icons/westend.svg">
+<img src="assets/westend/icons/westend.svg" alt="Westend" style="margin: 10px;" height=32px  />
+</a>
+<figcaption style="font-size: 8px; text-overflow: ellipsis"><code>https://raw.githubusercontent.com/paritytech/substrate-assets/master/assets/westend/icons/westend.svg</code></figcaption>
+</figure>
 
 
 ### screenshots

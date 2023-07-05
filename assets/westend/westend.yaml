@@ -1,0 +1,6 @@
+name: Westend
+description: Westend test relay chain
+icons:
+  - icons/westend.svg
+screenshots: []
+dir: assets/westend
