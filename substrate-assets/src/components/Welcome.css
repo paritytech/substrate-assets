@@ -1,0 +1,13 @@
+.welcome {
+    /* display: flex; */
+    background-color: rgb(139, 145, 143);
+    /* padding: 10px 200px; */
+    margin: 20px;
+    width: 100%;
+    font-size: small;
+    overflow: hidden;
+}
+
+.title {
+    font-size: larger;
+}

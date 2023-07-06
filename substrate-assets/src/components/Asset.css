@@ -1,9 +1,19 @@
 .asset {
-    border: solid 1px red;
+    border: solid 1px rgb(157, 157, 157);
+    margin: 20px 5px;
+    padding: 5px;
+    background-color: rgba(109, 0, 56, 0.39);
+    border-radius: 20px;
+    overflow: overlay;
+}
+
+.assets {
+    margin: 5px;
+    max-width: 80%;
 }
 
 .name {
-    color: cyan;
+    color: #e6037a;
     font-size: medium;
 }
 

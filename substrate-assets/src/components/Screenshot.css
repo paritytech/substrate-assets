@@ -2,6 +2,11 @@
     display: flex;
 }
 
+.screenshot {
+    padding: 5px;
+
+}
+
 .screenshot>img {
     border: solid 1px blue;
     width: 200px;

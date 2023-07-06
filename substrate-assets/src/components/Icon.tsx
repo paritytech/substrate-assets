@@ -1,7 +1,6 @@
 import React from 'react';
 import './Icon.css';
 import { CopyToClipboard } from 'react-copy-to-clipboard';
-import { log } from 'console';
 
 const BASE_URL = "https://raw.githubusercontent.com/paritytech/substrate-assets/master/";
 

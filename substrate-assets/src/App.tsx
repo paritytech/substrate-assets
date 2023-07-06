@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react"
 import './App.css';
 import {Assets} from './components/Assets';
+import { Welcome } from "./components/Welcome";
+import { Header } from "./components/Header";
 
 function App() {
   const [assets, setAssets] = useState([])
@@ -21,6 +23,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <Header/>
+        <Welcome/>
         <Assets assets={assets}/>
       </header>
     </div>
