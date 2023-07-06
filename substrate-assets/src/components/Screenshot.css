@@ -1,0 +1,9 @@
+.screenshots {
+    display: flex;
+}
+
+.screenshot>img {
+    border: solid 1px blue;
+    width: 200px;
+    cursor: pointer;
+}

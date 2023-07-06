@@ -1,0 +1,13 @@
+.asset {
+    border: solid 1px red;
+}
+
+.name {
+    color: cyan;
+    font-size: medium;
+}
+
+.description {
+    color: grey;
+    font-size: small;
+}
