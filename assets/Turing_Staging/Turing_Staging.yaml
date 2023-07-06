@@ -1,0 +1,6 @@
+name: Turing_Staging
+description: Parachain Turing_Staging
+icons:
+  - icons/Turing_Staging.svg
+screenshots: []
+dir: assets/Turing_Staging

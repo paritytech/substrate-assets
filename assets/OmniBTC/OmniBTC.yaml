@@ -1,0 +1,6 @@
+name: OmniBTC
+description: Parachain OmniBTC
+icons:
+  - icons/OmniBTC.svg
+screenshots: []
+dir: assets/OmniBTC

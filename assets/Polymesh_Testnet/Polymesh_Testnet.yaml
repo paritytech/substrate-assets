@@ -1,0 +1,6 @@
+name: Polymesh_Testnet
+description: Parachain Polymesh_Testnet
+icons:
+  - icons/Polymesh_Testnet.svg
+screenshots: []
+dir: assets/Polymesh_Testnet

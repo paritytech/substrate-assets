@@ -1,0 +1,6 @@
+name: Totem
+description: Parachain Totem
+icons:
+  - icons/Totem.svg
+screenshots: []
+dir: assets/Totem

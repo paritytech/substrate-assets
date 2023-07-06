@@ -1,0 +1,6 @@
+name: DAOIPCI
+description: Parachain DAOIPCI
+icons:
+  - icons/DAOIPCI.svg
+screenshots: []
+dir: assets/DAOIPCI

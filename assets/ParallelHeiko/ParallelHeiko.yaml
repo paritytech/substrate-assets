@@ -1,0 +1,6 @@
+name: ParallelHeiko
+description: Parachain ParallelHeiko
+icons:
+  - icons/ParallelHeiko.svg
+screenshots: []
+dir: assets/ParallelHeiko

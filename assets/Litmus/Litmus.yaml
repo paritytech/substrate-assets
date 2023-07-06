@@ -1,0 +1,6 @@
+name: Litmus
+description: Parachain Litmus
+icons:
+  - icons/Litmus.svg
+screenshots: []
+dir: assets/Litmus

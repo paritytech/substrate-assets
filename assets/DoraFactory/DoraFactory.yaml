@@ -1,0 +1,6 @@
+name: DoraFactory
+description: Parachain DoraFactory
+icons:
+  - icons/DoraFactory.svg
+screenshots: []
+dir: assets/DoraFactory

@@ -1,0 +1,6 @@
+name: Basilisk
+description: Parachain Basilisk
+icons:
+  - icons/Basilisk.svg
+screenshots: []
+dir: assets/Basilisk

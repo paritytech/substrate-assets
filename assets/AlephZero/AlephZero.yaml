@@ -1,0 +1,6 @@
+name: AlephZero
+description: Parachain AlephZero
+icons:
+  - icons/AlephZero.svg
+screenshots: []
+dir: assets/AlephZero

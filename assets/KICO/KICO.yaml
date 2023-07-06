@@ -1,0 +1,6 @@
+name: KICO
+description: Parachain KICO
+icons:
+  - icons/KICO.svg
+screenshots: []
+dir: assets/KICO

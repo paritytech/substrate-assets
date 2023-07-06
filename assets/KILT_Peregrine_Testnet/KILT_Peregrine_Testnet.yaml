@@ -1,0 +1,6 @@
+name: KILT_Peregrine_Testnet
+description: Parachain KILT_Peregrine_Testnet
+icons:
+  - icons/KILT_Peregrine_Testnet.svg
+screenshots: []
+dir: assets/KILT_Peregrine_Testnet

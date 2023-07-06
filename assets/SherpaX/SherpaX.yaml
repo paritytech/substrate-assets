@@ -1,0 +1,6 @@
+name: SherpaX
+description: Parachain SherpaX
+icons:
+  - icons/SherpaX.svg
+screenshots: []
+dir: assets/SherpaX

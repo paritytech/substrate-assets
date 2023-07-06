@@ -1,0 +1,6 @@
+name: Mars
+description: Parachain Mars
+icons:
+  - icons/Mars.svg
+screenshots: []
+dir: assets/Mars

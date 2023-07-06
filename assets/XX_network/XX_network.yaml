@@ -1,0 +1,6 @@
+name: XX_network
+description: Parachain XX_network
+icons:
+  - icons/XX_network.svg
+screenshots: []
+dir: assets/XX_network

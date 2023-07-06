@@ -1,0 +1,6 @@
+name: SORA
+description: Parachain SORA
+icons:
+  - icons/SORA.svg
+screenshots: []
+dir: assets/SORA

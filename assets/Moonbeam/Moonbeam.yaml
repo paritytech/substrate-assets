@@ -1,0 +1,6 @@
+name: Moonbeam
+description: Parachain Moonbeam
+icons:
+  - icons/Moonbeam.svg
+screenshots: []
+dir: assets/Moonbeam

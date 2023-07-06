@@ -1,0 +1,6 @@
+name: Crab
+description: Parachain Crab
+icons:
+  - icons/Crab.svg
+screenshots: []
+dir: assets/Crab

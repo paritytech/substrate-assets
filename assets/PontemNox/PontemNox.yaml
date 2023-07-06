@@ -1,0 +1,6 @@
+name: PontemNox
+description: Parachain PontemNox
+icons:
+  - icons/PontemNox.svg
+screenshots: []
+dir: assets/PontemNox

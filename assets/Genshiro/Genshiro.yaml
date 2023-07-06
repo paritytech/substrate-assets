@@ -1,0 +1,6 @@
+name: Genshiro
+description: Parachain Genshiro
+icons:
+  - icons/Genshiro.svg
+screenshots: []
+dir: assets/Genshiro

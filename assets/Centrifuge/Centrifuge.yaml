@@ -1,0 +1,6 @@
+name: Centrifuge
+description: Parachain Centrifuge
+icons:
+  - icons/Centrifuge.svg
+screenshots: []
+dir: assets/Centrifuge

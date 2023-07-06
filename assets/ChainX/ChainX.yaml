@@ -1,0 +1,6 @@
+name: ChainX
+description: Parachain ChainX
+icons:
+  - icons/ChainX.svg
+screenshots: []
+dir: assets/ChainX

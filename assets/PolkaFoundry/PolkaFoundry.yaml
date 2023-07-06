@@ -1,0 +1,6 @@
+name: PolkaFoundry
+description: Parachain PolkaFoundry
+icons:
+  - icons/PolkaFoundry.svg
+screenshots: []
+dir: assets/PolkaFoundry

@@ -1,0 +1,6 @@
+name: Listen
+description: Parachain Listen
+icons:
+  - icons/Listen.svg
+screenshots: []
+dir: assets/Listen

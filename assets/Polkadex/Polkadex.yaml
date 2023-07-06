@@ -1,0 +1,6 @@
+name: Polkadex
+description: Parachain Polkadex
+icons:
+  - icons/Polkadex.svg
+screenshots: []
+dir: assets/Polkadex

@@ -1,0 +1,6 @@
+name: SubDAO
+description: Parachain SubDAO
+icons:
+  - icons/SubDAO.svg
+screenshots: []
+dir: assets/SubDAO

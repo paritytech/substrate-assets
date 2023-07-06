@@ -1,0 +1,6 @@
+name: PolkaSmith
+description: Parachain PolkaSmith
+icons:
+  - icons/PolkaSmith.svg
+screenshots: []
+dir: assets/PolkaSmith

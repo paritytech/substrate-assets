@@ -1,0 +1,6 @@
+name: Westend_Testnet
+description: Parachain Westend_Testnet
+icons:
+  - icons/Westend_Testnet.svg
+screenshots: []
+dir: assets/Westend_Testnet

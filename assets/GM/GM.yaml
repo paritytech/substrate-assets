@@ -1,0 +1,6 @@
+name: GM
+description: Parachain GM
+icons:
+  - icons/GM.svg
+screenshots: []
+dir: assets/GM

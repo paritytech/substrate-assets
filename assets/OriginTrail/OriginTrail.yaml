@@ -1,0 +1,6 @@
+name: OriginTrail
+description: Parachain OriginTrail
+icons:
+  - icons/OriginTrail.svg
+screenshots: []
+dir: assets/OriginTrail

@@ -1,0 +1,6 @@
+name: AlephZero_Testnet
+description: Parachain AlephZero_Testnet
+icons:
+  - icons/AlephZero_Testnet.svg
+screenshots: []
+dir: assets/AlephZero_Testnet

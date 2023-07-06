@@ -1,0 +1,6 @@
+name: Bifrost_Kusama
+description: Parachain Bifrost_Kusama
+icons:
+  - icons/Bifrost_Kusama.svg
+screenshots: []
+dir: assets/Bifrost_Kusama

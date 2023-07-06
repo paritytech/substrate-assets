@@ -1,0 +1,6 @@
+name: Rococo_Testnet
+description: Parachain Rococo_Testnet
+icons:
+  - icons/Rococo_Testnet.svg
+screenshots: []
+dir: assets/Rococo_Testnet

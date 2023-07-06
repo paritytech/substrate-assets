@@ -1,0 +1,6 @@
+name: KILT_Spiritnet
+description: Parachain KILT_Spiritnet
+icons:
+  - icons/KILT_Spiritnet.svg
+screenshots: []
+dir: assets/KILT_Spiritnet

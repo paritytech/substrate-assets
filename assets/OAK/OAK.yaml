@@ -1,0 +1,6 @@
+name: OAK
+description: Parachain OAK
+icons:
+  - icons/OAK.svg
+screenshots: []
+dir: assets/OAK

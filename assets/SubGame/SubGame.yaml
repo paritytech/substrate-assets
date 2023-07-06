@@ -1,0 +1,6 @@
+name: SubGame
+description: Parachain SubGame
+icons:
+  - icons/SubGame.svg
+screenshots: []
+dir: assets/SubGame

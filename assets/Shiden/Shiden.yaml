@@ -1,0 +1,6 @@
+name: Shiden
+description: Parachain Shiden
+icons:
+  - icons/Shiden.svg
+screenshots: []
+dir: assets/Shiden

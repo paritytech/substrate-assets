@@ -1,0 +1,6 @@
+name: Kabocha
+description: Parachain Kabocha
+icons:
+  - icons/Kabocha.svg
+screenshots: []
+dir: assets/Kabocha

@@ -1,0 +1,6 @@
+name: Moonbase_Alpha_Testnet
+description: Parachain Moonbase_Alpha_Testnet
+icons:
+  - icons/Moonbase_Alpha_Testnet.svg
+screenshots: []
+dir: assets/Moonbase_Alpha_Testnet

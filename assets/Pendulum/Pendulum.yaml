@@ -1,0 +1,6 @@
+name: Pendulum
+description: Parachain Pendulum
+icons:
+  - icons/Pendulum.svg
+screenshots: []
+dir: assets/Pendulum

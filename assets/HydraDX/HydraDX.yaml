@@ -1,0 +1,6 @@
+name: HydraDX
+description: Parachain HydraDX
+icons:
+  - icons/HydraDX.svg
+screenshots: []
+dir: assets/HydraDX

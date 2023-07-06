@@ -1,0 +1,6 @@
+name: Nodle
+description: Parachain Nodle
+icons:
+  - icons/Nodle.svg
+screenshots: []
+dir: assets/Nodle

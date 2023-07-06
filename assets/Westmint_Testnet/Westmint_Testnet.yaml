@@ -1,0 +1,6 @@
+name: Westmint_Testnet
+description: Parachain Westmint_Testnet
+icons:
+  - icons/Westmint_Testnet.svg
+screenshots: []
+dir: assets/Westmint_Testnet

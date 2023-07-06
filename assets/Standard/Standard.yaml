@@ -1,0 +1,6 @@
+name: Standard
+description: Parachain Standard
+icons:
+  - icons/Standard.svg
+screenshots: []
+dir: assets/Standard

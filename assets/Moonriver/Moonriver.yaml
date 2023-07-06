@@ -1,0 +1,6 @@
+name: Moonriver
+description: Parachain Moonriver
+icons:
+  - icons/Moonriver.svg
+screenshots: []
+dir: assets/Moonriver
