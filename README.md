@@ -1,5 +1,3 @@
-# Substrate Assets
+# DEPRECATED
 
-This repository contains standard official assets for various Substrate & Polkadot related chains and products.
-
-Check out the [Assets List](list.md).
+This repository is deprecated in favour of [@polkadot-cloud](https://github.com/polkadot-cloud/substrate-assets).
